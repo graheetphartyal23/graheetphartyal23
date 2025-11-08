@@ -8,10 +8,12 @@
 
 ---
 
-### 🧠 **About Me**
-🎓 I'm a **B.Tech CSE** student at **UPES, Dehradun**, specializing in **Cloud Computing & Virtualization Technology (CCVT)**.  
-💡 Passionate about **building scalable cloud-native systems**, **deploying ML models**, and **creating efficient SaaS solutions**.  
-⚡ I love exploring **AWS ☁️**, **Docker 🐳**, **Kubernetes 🚀**, and modern **Web Technologies 🌐**.  
+### 🧠 **About Me**  
+🎓 I'm a **B.Tech Computer Science** student at **UPES Dehradun**, driven by a passion for **software development**, **machine learning**, 
+  and **full-stack engineering**.  
+💡 I enjoy **building impactful projects**, solving real-world problems through code, and exploring innovative technologies across domains.  
+⚡ Enthusiastic about **AI 🤖**, **DevOps 🚀**, and **modern web development 🌐**, with a focus on creating scalable and efficient applications.  
+  
 
 > 💬 “Turning ideas into cloud-powered reality.”
 
