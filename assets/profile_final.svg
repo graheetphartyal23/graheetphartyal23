@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="640" viewBox="0 0 860 640">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .name      { font-size: 28px; font-weight: 700; fill: #e6edf3; }
+    .sub       { font-size: 14px; fill: #8b949e; }
+    .bio       { font-size: 13.5px; fill: #c9d1d9; }
+    .sec       { font-size: 11px; font-weight: 600; fill: #8b949e; letter-spacing: 0.09em; }
+    .pill-gold { font-size: 12.5px; fill: #c9a84c; }
+    .pill-gray { font-size: 12px;   fill: #c9d1d9; }
+    .pill-blue { font-size: 12px;   fill: #58a6ff; }
+    .divider   { stroke: #30363d; stroke-width: 1; }
+  </style>
+
+  <!-- Name -->
+  <text x="430" y="48" class="name" text-anchor="middle">Graheet Phartyal</text>
+  <!-- Subtitle -->
+  <text x="430" y="74" class="sub" text-anchor="middle">B.Tech Computer Science · UPES Dehradun · India</text>
+
+  <!-- Social pills (visual only — clickable badges are in README below) -->
+  <rect x="184" y="88" width="82"  height="26" rx="13" fill="none" stroke="#8b7540" stroke-width="1.2"/>
+  <text x="225" y="106" font-size="12" fill="#c9a84c" text-anchor="middle" font-family="-apple-system,sans-serif">✉ Email</text>
+
+  <rect x="276" y="88" width="90"  height="26" rx="13" fill="none" stroke="#0a66c2" stroke-width="1.2"/>
+  <text x="321" y="106" font-size="12" fill="#58a6ff" text-anchor="middle" font-family="-apple-system,sans-serif">in LinkedIn</text>
+
+  <rect x="376" y="88" width="116" height="26" rx="13" fill="none" stroke="#8b7540" stroke-width="1.2"/>
+  <text x="434" y="106" font-size="12" fill="#c9a84c" text-anchor="middle" font-family="-apple-system,sans-serif">🤗 HuggingFace</text>
+
+  <rect x="502" y="88" width="150" height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/>
+  <text x="577" y="106" font-size="12" fill="#8b949e" text-anchor="middle" font-family="-apple-system,sans-serif">+91 94107 79923</text>
+
+  <!-- Divider 1 -->
+  <line x1="0" y1="130" x2="860" y2="130" class="divider"/>
+
+  <!-- Bio -->
+  <text x="0" y="156" class="bio">I'm a Computer Science student at UPES Dehradun with a strong focus on cloud-native engineering,</text>
+  <text x="0" y="176" class="bio">full-stack development, and applied machine learning. I design and ship systems end-to-end — from</text>
+  <text x="0" y="196" class="bio">scalable AWS infrastructures and containerized microservices to ML-powered web apps with real</text>
+  <text x="0" y="216" class="bio">deployment pipelines. I'm drawn to the intersection of DevOps and AI, and currently building RL</text>
+  <text x="0" y="236" class="bio">environments for agent evaluation and exploring generative AI in production settings.</text>
+
+  <!-- Divider 2 -->
+  <line x1="0" y1="258" x2="860" y2="258" class="divider"/>
+
+  <!-- STACK -->
+  <text x="0" y="280" class="sec">STACK</text>
+
+  <!-- Stack Row 1 -->
+  <rect x="0"   y="290" width="58"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="29"  y="308" class="pill-gray" text-anchor="middle">Java</text>
+  <rect x="68"  y="290" width="72"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="104" y="308" class="pill-gray" text-anchor="middle">Python</text>
+  <rect x="150" y="290" width="40"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="170" y="308" class="pill-gray" text-anchor="middle">C</text>
+  <rect x="200" y="290" width="62"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="231" y="308" class="pill-gray" text-anchor="middle">React</text>
+  <rect x="272" y="290" width="72"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="308" y="308" class="pill-gray" text-anchor="middle">Node.js</text>
+  <rect x="354" y="290" width="48"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="378" y="308" class="pill-gray" text-anchor="middle">PHP</text>
+  <rect x="412" y="290" width="52"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="438" y="308" class="pill-gray" text-anchor="middle">AWS</text>
+  <rect x="474" y="290" width="68"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="508" y="308" class="pill-gray" text-anchor="middle">Docker</text>
+  <rect x="552" y="290" width="98"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="601" y="308" class="pill-gray" text-anchor="middle">Kubernetes</text>
+  <rect x="660" y="290" width="74"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="697" y="308" class="pill-gray" text-anchor="middle">Jenkins</text>
+
+  <!-- Stack Row 2 -->
+  <rect x="0"   y="326" width="64"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="32"  y="344" class="pill-gray" text-anchor="middle">MySQL</text>
+  <rect x="74"  y="326" width="90"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="119" y="344" class="pill-gray" text-anchor="middle">MongoDB</text>
+  <rect x="174" y="326" width="82"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="215" y="344" class="pill-gray" text-anchor="middle">Streamlit</text>
+  <rect x="266" y="326" width="60"  height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1.2"/><text x="296" y="344" class="pill-gray" text-anchor="middle">Trello</text>
+
+  <!-- Divider 3 -->
+  <line x1="0" y1="370" x2="860" y2="370" class="divider"/>
+
+  <!-- CERTIFICATIONS -->
+  <text x="0" y="392" class="sec">CERTIFICATIONS</text>
+
+  <rect x="0"   y="402" width="168" height="30" rx="15" fill="none" stroke="#8b7540" stroke-width="1.2"/><text x="84"  y="422" class="pill-gold" text-anchor="middle">Oracle MySQL 8.0 DBA</text>
+  <rect x="178" y="402" width="148" height="30" rx="15" fill="none" stroke="#8b7540" stroke-width="1.2"/><text x="252" y="422" class="pill-gold" text-anchor="middle">OCI AI Foundations</text>
+  <rect x="336" y="402" width="158" height="30" rx="15" fill="none" stroke="#8b7540" stroke-width="1.2"/><text x="415" y="422" class="pill-gold" text-anchor="middle">AWS Cloud Architect</text>
+  <rect x="504" y="402" width="188" height="30" rx="15" fill="none" stroke="#8b7540" stroke-width="1.2"/><text x="598" y="422" class="pill-gold" text-anchor="middle">AWS Security Foundations</text>
+
+  <rect x="0"   y="442" width="178" height="30" rx="15" fill="none" stroke="#8b7540" stroke-width="1.2"/><text x="89"  y="462" class="pill-gold" text-anchor="middle">AWS Cloud Practitioner</text>
+  <rect x="188" y="442" width="178" height="30" rx="15" fill="none" stroke="#8b7540" stroke-width="1.2"/><text x="277" y="462" class="pill-gold" text-anchor="middle">AWS Cloud Quest Badge</text>
+
+  <!-- Divider 4 -->
+  <line x1="0" y1="490" x2="860" y2="490" class="divider"/>
+
+  <!-- CURRENTLY EXPLORING -->
+  <text x="0" y="512" class="sec">CURRENTLY EXPLORING</text>
+
+  <rect x="0"   y="522" width="148" height="28" rx="14" fill="none" stroke="#1f6feb" stroke-width="1.2"/><text x="74"  y="541" class="pill-blue" text-anchor="middle">Generative AI</text>
+  <rect x="158" y="522" width="168" height="28" rx="14" fill="none" stroke="#1f6feb" stroke-width="1.2"/><text x="242" y="541" class="pill-blue" text-anchor="middle">RL Agent Evaluation</text>
+  <rect x="336" y="522" width="158" height="28" rx="14" fill="none" stroke="#1f6feb" stroke-width="1.2"/><text x="415" y="541" class="pill-blue" text-anchor="middle">DevOps Pipelines</text>
+  <rect x="504" y="522" width="148" height="28" rx="14" fill="none" stroke="#1f6feb" stroke-width="1.2"/><text x="578" y="541" class="pill-blue" text-anchor="middle">Cloud Architecture</text>
+
+  <!-- Divider 5 -->
+  <line x1="0" y1="568" x2="860" y2="568" class="divider"/>
+
+  <!-- Footer quote -->
+  <text x="430" y="604" font-size="13" fill="#8b949e" text-anchor="middle" font-style="italic" font-family="-apple-system,sans-serif">Code. Deploy. Scale. Repeat.</text>
+</svg>
