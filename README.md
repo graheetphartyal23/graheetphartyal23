@@ -28,13 +28,6 @@
          width="32"
          style="border-radius:50%; padding:6px; background-color:#161b22; border:1px solid #30363d;" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="tel:+919410779923">
-    <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png"
-         width="32"
-         style="border-radius:50%; padding:6px; background-color:#161b22; border:1px solid #30363d;" />
-  </a>
 </p>
 
 <br/>
