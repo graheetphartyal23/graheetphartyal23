@@ -1,7 +1,7 @@
 <h1 align="center">Graheet Phartyal</h1>
 
 <p align="center">
-  <sub>B.Tech Computer Science · UPES Dehradun · India</sub>
+  <sub>B.Tech Computer Science</sub>
 </p>
 
 <br/>
